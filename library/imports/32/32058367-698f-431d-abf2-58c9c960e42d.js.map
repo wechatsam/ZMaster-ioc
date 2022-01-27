@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets\\Script\\src\\time\\interfaces\\JTIJumpFrame.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["namespace com \r\n{\r\n    export interface JTIJumpFrame extends JTIEnterFrame\r\n    {\r\n        jumpFrames:number;\r\n    }\r\n}\r\n"]}

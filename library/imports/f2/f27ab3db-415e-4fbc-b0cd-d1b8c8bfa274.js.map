@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets\\Script\\src\\interfaces\\pools\\JTIPoolObject.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["/*\r\n* name;\r\n*/\r\nnamespace com\r\n{\r\n    export interface JTIPoolObject\r\n    {\r\n        /***\r\n         * 回收重写此方法\r\n         */\r\n        recycle();\r\n    }\r\n\r\n}"]}

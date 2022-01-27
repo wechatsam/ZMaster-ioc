@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets\\Script\\src\\time\\interfaces\\JTIScheduleTimer.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["namespace com \r\n{\r\n    export interface JTIScheduleTimer  extends JTITimer\r\n    {\r\n       currentItem:any;\r\n\r\n       dataList:any[];\r\n    }\r\n}\r\n"]}
