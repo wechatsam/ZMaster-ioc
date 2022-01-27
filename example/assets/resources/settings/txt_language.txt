@@ -1,0 +1,6 @@
+id	English	Thai	Vietnam
+账号	Account		
+密码	Password		
+登录	Login		
+注册	Register		
+昵称	NickName		

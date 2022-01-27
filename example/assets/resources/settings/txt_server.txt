@@ -1,0 +1,5 @@
+id	host	port
+localServer	10.10.73.3  7397
+chatServer	10.10.73.3  8889
+loginServer	http://10.10.73.3   8086
+registerServer	http://10.10.73.3   8087
