@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "skipLibCheck": true,
+    "outFile": "./rabbit-ioc/z-rabbit-ioc.js",
+    "declaration": true,
+    "sourceMap": false,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "lib": 
+    [
+      "es2015",
+      "es5",
+      "dom"
+    ]
+  },
+  "include": [
+    "assets/script/src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

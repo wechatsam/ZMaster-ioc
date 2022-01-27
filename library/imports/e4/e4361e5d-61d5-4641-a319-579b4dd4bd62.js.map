@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\coroutines\\JTITaskExecutor.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\r\n\r\n/*\r\n* name;\r\n*/\r\nnamespace com \r\n{\r\n    export interface JTITaskExecutor extends JTITask\r\n    {\r\n        relevance(counter:JTCounter):void;\r\n    }\r\n}"]}

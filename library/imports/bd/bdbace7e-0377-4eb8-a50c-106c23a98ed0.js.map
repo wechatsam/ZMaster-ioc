@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\pools\\JTIFixedPool.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["/*\r\n* name;\r\n*/\r\nnamespace com\r\n{\r\n      export interface JTIFixedPool extends JTICachePool\r\n      {\r\n            fullPool:boolean;\r\n            \r\n            fixedCount:number;\r\n      }\r\n}"]}

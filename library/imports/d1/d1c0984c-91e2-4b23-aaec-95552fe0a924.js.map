@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\threads\\JTIRunnable.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["namespace com \r\n{\r\n    export interface JTIRunnable\r\n    {\r\n          execute():void;\r\n    }\r\n}\r\n"]}

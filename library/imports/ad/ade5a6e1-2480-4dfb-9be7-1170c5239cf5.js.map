@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\time\\interfaces\\JTIScheduleFrame.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["namespace com \r\n{\r\n    export interface JTIScheduleFrame  extends JTIEnterFrame\r\n    {\r\n       frames:any[];\r\n        \r\n       createFrames:JTCommand;\r\n\r\n       currentItem:any;\r\n    }\r\n}\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\pools\\JTICachePool.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["/*\r\n* name;\r\n*/\r\nnamespace com\r\n{\r\n      export interface JTICachePool extends JTIPool\r\n      {\r\n            recycles(items?:JTIPoolObject[]):void;\r\n      }\r\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\JTITextLoader.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\r\n\r\n/*\r\n* name;\r\n*/\r\nnamespace com \r\n{\r\n    export interface JTITextLoader<T extends JTBaseTemplate>\r\n    {\r\n\r\n    }\r\n}"]}

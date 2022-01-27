@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\time\\interfaces\\JTITimeTask.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["namespace com \r\n{\r\n    export interface JTITimerTask  \r\n    {\r\n        updateTick(tick:number):void;\r\n        \r\n        running:boolean;\r\n    }\r\n}\r\n"]}

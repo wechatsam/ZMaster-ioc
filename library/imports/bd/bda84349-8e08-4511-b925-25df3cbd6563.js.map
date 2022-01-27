@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\coroutines\\JTIFactory.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\r\n\r\n/*\r\n* name;\r\n*/\r\nnamespace com \r\n{\r\n    export interface JTIFactory \r\n    {\r\n            produce():any\r\n    }\r\n}"]}

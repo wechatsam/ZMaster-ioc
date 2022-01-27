@@ -1,0 +1,1625 @@
+2022-01-16T10:45:01.295Z - success: protocol editor-framework registered
+2022-01-16T10:45:01.296Z - success: protocol app registered
+2022-01-16T10:45:01.296Z - success: protocol theme registered
+2022-01-16T10:45:01.296Z - success: protocol packages registered
+2022-01-16T10:45:01.307Z - normal: Load ~/.CocosCreator/settings.json
+2022-01-16T10:45:01.323Z - success: protocol uuid registerred
+2022-01-16T10:45:01.323Z - success: protocol db registerred
+2022-01-16T10:45:01.323Z - success: protocol thumbnail registerred
+2022-01-16T10:45:01.381Z - normal: Initializing Asset Database
+2022-01-16T10:45:01.394Z - normal: checking language setting...
+2022-01-16T10:45:01.394Z - normal: Language: zh
+2022-01-16T10:45:01.399Z - success: protocol unpack registerred
+2022-01-16T10:45:01.399Z - success: protocol disable-commonjs registerred
+2022-01-16T10:45:01.797Z - normal: connected!
+2022-01-16T10:45:01.984Z - normal: Check project D:\Cocos\rabbit-ioc
+2022-01-16T10:45:01.985Z - normal: Initializing project D:\Cocos\rabbit-ioc
+2022-01-16T10:45:02.124Z - success: adapters loaded
+2022-01-16T10:45:02.125Z - success: asset-db-debugger loaded
+2022-01-16T10:45:02.176Z - success: fb-audience-network loaded
+2022-01-16T10:45:02.209Z - success: fb-live-stream loaded
+2022-01-16T10:45:02.211Z - success: google-play-instant loaded
+2022-01-16T10:45:02.211Z - success: jsb-adapter loaded
+2022-01-16T10:45:02.213Z - success: package-manager loaded
+2022-01-16T10:45:02.213Z - success: runtime-adapters loaded
+2022-01-16T10:45:02.214Z - success: runtime-dev-tools loaded
+2022-01-16T10:45:02.215Z - success: ui-kit-preview-extra loaded
+2022-01-16T10:45:02.216Z - success: ui-kit-preview loaded
+2022-01-16T10:45:02.817Z - success: alipay-minigame loaded
+2022-01-16T10:45:02.823Z - success: assets loaded
+2022-01-16T10:45:02.826Z - success: baidugame-opendata loaded
+2022-01-16T10:45:02.828Z - success: baidugame loaded
+2022-01-16T10:45:02.829Z - success: builder loaded
+2022-01-16T10:45:02.832Z - success: bytedance-opendata loaded
+2022-01-16T10:45:02.834Z - success: bytedance loaded
+2022-01-16T10:45:02.837Z - success: channel-upload-tools loaded
+2022-01-16T10:45:02.947Z - success: cloud-function loaded
+2022-01-16T10:45:03.099Z - success: cocos-services loaded
+2022-01-16T10:45:03.101Z - success: console loaded
+2022-01-16T10:45:03.103Z - success: curve-editor loaded
+2022-01-16T10:45:03.111Z - success: fb-instant-games loaded
+2022-01-16T10:45:03.112Z - success: game-window loaded
+2022-01-16T10:45:03.113Z - success: google-instant-games loaded
+2022-01-16T10:45:03.116Z - success: hierarchy loaded
+2022-01-16T10:45:03.119Z - success: huawei-agc loaded
+2022-01-16T10:45:03.121Z - success: huawei-runtime loaded
+2022-01-16T10:45:03.123Z - success: inspector loaded
+2022-01-16T10:45:03.137Z - success: cpk-publish loaded
+2022-01-16T10:45:03.138Z - success: keystore loaded
+2022-01-16T10:45:03.156Z - success: link-sure-runtime loaded
+2022-01-16T10:45:03.163Z - success: node-library loaded
+2022-01-16T10:45:03.164Z - success: open-recent-items loaded
+2022-01-16T10:45:03.167Z - success: oppo-runtime loaded
+2022-01-16T10:45:03.169Z - success: package-asset loaded
+2022-01-16T10:45:03.170Z - success: preferences loaded
+2022-01-16T10:45:03.172Z - success: project-importer loaded
+2022-01-16T10:45:03.174Z - success: project-settings loaded
+2022-01-16T10:45:03.191Z - success: qtt-runtime loaded
+2022-01-16T10:45:03.193Z - success: scene loaded
+2022-01-16T10:45:03.194Z - success: simulator-debugger loaded
+2022-01-16T10:45:03.195Z - success: sprite-editor loaded
+2022-01-16T10:45:03.245Z - success: store loaded
+2022-01-16T10:45:03.248Z - success: taobao-creativeapp loaded
+2022-01-16T10:45:03.250Z - success: timeline loaded
+2022-01-16T10:45:03.254Z - success: vivo-runtime loaded
+2022-01-16T10:45:03.256Z - success: wechatgame-opendata loaded
+2022-01-16T10:45:03.260Z - success: wechatgame loaded
+2022-01-16T10:45:03.263Z - success: xiaomi-runtime loaded
+2022-01-16T10:45:03.315Z - success: im-plugin loaded
+2022-01-16T10:45:03.316Z - success: preview server running at http://localhost:7456
+2022-01-16T10:45:03.861Z - normal: Initializing Cocos2d
+2022-01-16T10:45:04.099Z - normal: Initializing engine extends
+2022-01-16T10:45:05.722Z - info: Cocos Service load base data!
+2022-01-16T10:45:08.571Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/context/JTApplication.ts.meta
+2022-01-16T10:45:08.572Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/context/JTComponent.ts.meta
+2022-01-16T10:45:08.573Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/context/JTPanel.ts.meta
+2022-01-16T10:45:08.574Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/interfaces/JTIChannelPipeline.ts.meta
+2022-01-16T10:45:08.575Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/interfaces/JTIProtocol.ts.meta
+2022-01-16T10:45:08.576Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/interfaces/times.meta
+2022-01-16T10:45:08.577Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/network/JTJSONPackage.ts.meta
+2022-01-16T10:45:08.580Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/interfaces/networks/JTIComponent.ts.meta
+2022-01-16T10:45:08.581Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/network/base/JTMatrix.ts.meta
+2022-01-16T10:45:08.582Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/network/base/JTPoint.ts.meta
+2022-01-16T10:45:08.583Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/network/base/loaders.meta
+2022-01-16T10:45:08.584Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/network/protocols/JTProtocolErrorMsg.ts.meta
+2022-01-16T10:45:08.585Z - warn: [db-task][init] Backup unused meta file: db://assets/Script/src/network/protocols/JTProtocolItemManager.ts.meta
+2022-01-16T10:45:15.683Z - normal: Loading packages
+2022-01-16T10:45:15.686Z - normal: Watching packages
+2022-01-16T10:45:15.699Z - normal: Run Application
+2022-01-16T10:45:18.562Z - failed: load script [./assets/Script/src/base/JTComponent] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTComponent.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTComponent.js:169:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTComponent.js:176:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTComponent.js:178:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.562Z - failed: load script [./assets/Script/src/base/JTPanel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTPanel.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTPanel.js:58:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTPanel.js:65:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTPanel.js:67:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.563Z - failed: load script [./assets/Script/src/base/JTScene] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTScene.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTScene.js:60:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTScene.js:67:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTScene.js:69:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.563Z - failed: load script [./assets/Script/src/base/JTUIComponent] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTUIComponent.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTUIComponent.js:186:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTUIComponent.js:193:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\base\JTUIComponent.js:195:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.564Z - failed: load script [./assets/Script/src/common/JTFunctionUtils] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTFunctionUtils.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTFunctionUtils.js:82:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTFunctionUtils.js:89:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTFunctionUtils.js:91:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.564Z - failed: load script [./assets/Script/src/common/JTLocalCache] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLocalCache.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLocalCache.js:84:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLocalCache.js:91:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLocalCache.js:93:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.565Z - failed: load script [./assets/Script/src/common/JTLogger] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLogger.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLogger.js:89:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLogger.js:96:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTLogger.js:98:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.565Z - failed: load script [./assets/Script/src/common/JTMatrix] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTMatrix.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTMatrix.js:289:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTMatrix.js:296:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTMatrix.js:298:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.566Z - failed: load script [./assets/Script/src/common/JTPoint] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTPoint.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTPoint.js:81:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTPoint.js:88:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTPoint.js:90:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.566Z - failed: load script [./assets/Script/src/common/JTSession] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTSession.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTSession.js:49:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTSession.js:56:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTSession.js:58:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.567Z - failed: load script [./assets/Script/src/common/JTTextLoader] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTTextLoader.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTTextLoader.js:128:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTTextLoader.js:135:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\common\JTTextLoader.js:137:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.568Z - failed: load script [./assets/Script/src/context/JTApplicationBootstrap] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationBootstrap.js:65:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationBootstrap.js:208:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationBootstrap.js:215:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationBootstrap.js:217:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.568Z - failed: load script [./assets/Script/src/context/JTApplicationContext] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationContext.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationContext.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationContext.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\context\JTApplicationContext.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.568Z - failed: load script [./assets/Script/src/coroutines/JTLocker] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\JTLocker.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\JTLocker.js:68:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\JTLocker.js:75:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\JTLocker.js:77:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.569Z - failed: load script [./assets/Script/src/coroutines/tasks/JTCounter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTCounter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTCounter.js:92:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTCounter.js:99:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTCounter.js:101:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.569Z - failed: load script [./assets/Script/src/coroutines/tasks/JTFuturePipeline] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTFuturePipeline.js:65:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTFuturePipeline.js:189:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTFuturePipeline.js:196:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTFuturePipeline.js:198:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.570Z - failed: load script [./assets/Script/src/coroutines/tasks/JTTask] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTask.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTask.js:34:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTask.js:41:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTask.js:43:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.571Z - failed: load script [./assets/Script/src/coroutines/tasks/JTTaskCounter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskCounter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskCounter.js:90:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskCounter.js:97:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskCounter.js:99:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.571Z - failed: load script [./assets/Script/src/coroutines/tasks/JTTaskEvent] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskEvent.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskEvent.js:34:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskEvent.js:41:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskEvent.js:43:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.572Z - failed: load script [./assets/Script/src/coroutines/tasks/JTTaskExecutor] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskExecutor.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskExecutor.js:61:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskExecutor.js:68:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskExecutor.js:70:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.572Z - failed: load script [./assets/Script/src/coroutines/tasks/JTTaskFactory] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskFactory.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskFactory.js:32:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskFactory.js:39:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\coroutines\tasks\JTTaskFactory.js:41:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.572Z - failed: load script [./assets/Script/src/datas/JTDataInfo] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\JTDataInfo.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\JTDataInfo.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\JTDataInfo.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\JTDataInfo.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.572Z - failed: load script [./assets/Script/src/datas/mappers/JTAbstractResponseMapping] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTAbstractResponseMapping.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTAbstractResponseMapping.js:67:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTAbstractResponseMapping.js:74:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTAbstractResponseMapping.js:76:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.573Z - failed: load script [./assets/Script/src/datas/mappers/JTClassMapper] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTClassMapper.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTClassMapper.js:65:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTClassMapper.js:72:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTClassMapper.js:74:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.573Z - failed: load script [./assets/Script/src/datas/mappers/JTMapper] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTMapper.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTMapper.js:51:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTMapper.js:58:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\mappers\JTMapper.js:60:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.573Z - failed: load script [./assets/Script/src/datas/templates/JTBaseTemplate] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTBaseTemplate.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTBaseTemplate.js:35:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTBaseTemplate.js:42:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTBaseTemplate.js:44:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.574Z - failed: load script [./assets/Script/src/datas/templates/JTServerConfigTemplate] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTServerConfigTemplate.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTServerConfigTemplate.js:54:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTServerConfigTemplate.js:61:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\datas\templates\JTServerConfigTemplate.js:63:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.574Z - failed: load script [./assets/Script/src/decorators/binders/JTBindingUtils] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTBindingUtils.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTBindingUtils.js:38:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTBindingUtils.js:45:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTBindingUtils.js:47:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.575Z - failed: load script [./assets/Script/src/decorators/binders/JTPropertyChanged] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTPropertyChanged.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTPropertyChanged.js:32:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTPropertyChanged.js:39:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTPropertyChanged.js:41:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.575Z - failed: load script [./assets/Script/src/decorators/binders/JTWatchProperty] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTWatchProperty.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTWatchProperty.js:32:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTWatchProperty.js:39:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\binders\JTWatchProperty.js:41:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.575Z - failed: load script [./assets/Script/src/decorators/injects/JTDecoratorUtils] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTDecoratorUtils.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTDecoratorUtils.js:76:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTDecoratorUtils.js:83:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTDecoratorUtils.js:85:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.576Z - failed: load script [./assets/Script/src/decorators/injects/JTLayout] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:34:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:41:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:43:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.576Z - failed: load script [./assets/Script/src/decorators/injects/JTNotifyUpdate] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTNotifyUpdate.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTNotifyUpdate.js:33:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTNotifyUpdate.js:40:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTNotifyUpdate.js:42:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.576Z - failed: load script [./assets/Script/src/decorators/injects/JTResize] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResize.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResize.js:58:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResize.js:65:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResize.js:67:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.577Z - failed: load script [./assets/Script/src/decorators/injects/JTResponse] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResponse.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResponse.js:44:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResponse.js:51:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTResponse.js:53:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.577Z - failed: load script [./assets/Script/src/decorators/injects/alisa/JTClassInjectAlias] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTClassInjectAlias.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTClassInjectAlias.js:49:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTClassInjectAlias.js:56:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTClassInjectAlias.js:58:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.578Z - failed: load script [./assets/Script/src/decorators/injects/alisa/JTConfigurationAlisa] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTConfigurationAlisa.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTConfigurationAlisa.js:95:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTConfigurationAlisa.js:102:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTConfigurationAlisa.js:104:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.578Z - failed: load script [./assets/Script/src/decorators/injects/alisa/JTSingletonClassAlisa] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonClassAlisa.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonClassAlisa.js:69:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonClassAlisa.js:76:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonClassAlisa.js:78:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.578Z - failed: load script [./assets/Script/src/decorators/injects/alisa/JTSingletonPoolAlisa] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonPoolAlisa.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonPoolAlisa.js:70:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonPoolAlisa.js:77:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\alisa\JTSingletonPoolAlisa.js:79:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.579Z - failed: load script [./assets/Script/src/decorators/injects/singleton/JTConfiguration] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTConfiguration.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTConfiguration.js:59:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTConfiguration.js:66:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTConfiguration.js:68:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.579Z - failed: load script [./assets/Script/src/decorators/injects/singleton/JTSingletonClass] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonClass.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonClass.js:61:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonClass.js:68:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonClass.js:70:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.580Z - failed: load script [./assets/Script/src/decorators/injects/singleton/JTSingletonPool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonPool.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonPool.js:59:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonPool.js:66:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\singleton\JTSingletonPool.js:68:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.580Z - failed: load script [./assets/Script/src/events/JTCommand] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTCommand.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTCommand.js:116:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTCommand.js:123:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTCommand.js:125:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.581Z - failed: load script [./assets/Script/src/events/JTEventDispatcher] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventDispatcher.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventDispatcher.js:112:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventDispatcher.js:119:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventDispatcher.js:121:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.581Z - failed: load script [./assets/Script/src/events/JTEventManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventManager.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventManager.js:105:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventManager.js:112:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventManager.js:114:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.582Z - failed: load script [./assets/Script/src/events/JTEventSignaler] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventSignaler.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventSignaler.js:122:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventSignaler.js:129:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTEventSignaler.js:131:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.582Z - failed: load script [./assets/Script/src/events/JTFunctionManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTFunctionManager.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTFunctionManager.js:111:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTFunctionManager.js:118:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\events\JTFunctionManager.js:120:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.582Z - failed: load script [./assets/Script/src/interfaces/JTIApplicationContext] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIApplicationContext.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIApplicationContext.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIApplicationContext.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIApplicationContext.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.583Z - failed: load script [./assets/Script/src/interfaces/JTIChildOption] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIChildOption.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIChildOption.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIChildOption.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIChildOption.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.583Z - failed: load script [./assets/Script/src/interfaces/JTIEventDispatcher] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIEventDispatcher.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIEventDispatcher.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIEventDispatcher.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIEventDispatcher.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.583Z - failed: load script [./assets/Script/src/interfaces/JTIMapper] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIMapper.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIMapper.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIMapper.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIMapper.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.584Z - failed: load script [./assets/Script/src/interfaces/JTIOption] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIOption.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIOption.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIOption.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTIOption.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.584Z - failed: load script [./assets/Script/src/interfaces/JTITextLoader] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTITextLoader.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTITextLoader.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTITextLoader.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\JTITextLoader.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.585Z - failed: load script [./assets/Script/src/interfaces/coroutines/JTICounter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTICounter.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTICounter.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTICounter.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTICounter.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.585Z - failed: load script [./assets/Script/src/interfaces/coroutines/JTIFactory] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTIFactory.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTIFactory.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTIFactory.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTIFactory.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.585Z - failed: load script [./assets/Script/src/interfaces/coroutines/JTILocker] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTILocker.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTILocker.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTILocker.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTILocker.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.586Z - failed: load script [./assets/Script/src/interfaces/coroutines/JTITask] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITask.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITask.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITask.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITask.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.586Z - failed: load script [./assets/Script/src/interfaces/coroutines/JTITaskExecutor] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITaskExecutor.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITaskExecutor.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITaskExecutor.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\coroutines\JTITaskExecutor.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.586Z - failed: load script [./assets/Script/src/interfaces/events/JTIEventSignaler] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\events\JTIEventSignaler.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\events\JTIEventSignaler.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\events\JTIEventSignaler.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\events\JTIEventSignaler.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.587Z - failed: load script [./assets/Script/src/interfaces/managers/JTILayerManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTILayerManager.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTILayerManager.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTILayerManager.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTILayerManager.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.587Z - failed: load script [./assets/Script/src/interfaces/managers/JTISceneManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTISceneManager.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTISceneManager.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTISceneManager.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTISceneManager.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.587Z - failed: load script [./assets/Script/src/interfaces/managers/JTITemplateInfoManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTITemplateInfoManager.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTITemplateInfoManager.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTITemplateInfoManager.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\managers\JTITemplateInfoManager.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.587Z - failed: load script [./assets/Script/src/interfaces/networks/JTIChannel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannel.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannel.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannel.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannel.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.588Z - failed: load script [./assets/Script/src/interfaces/networks/JTIChannelContext] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContext.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContext.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContext.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContext.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.588Z - failed: load script [./assets/Script/src/interfaces/networks/JTIChannelContextMap] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContextMap.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContextMap.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContextMap.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelContextMap.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.588Z - failed: load script [./assets/Script/src/interfaces/networks/JTIChannelOption] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelOption.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelOption.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelOption.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelOption.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.589Z - failed: load script [./assets/Script/src/interfaces/networks/JTIChannelPipeline] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelPipeline.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelPipeline.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelPipeline.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelPipeline.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.589Z - failed: load script [./assets/Script/src/interfaces/networks/JTIChannelState] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelState.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelState.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelState.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIChannelState.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.589Z - failed: load script [./assets/Script/src/interfaces/networks/JTIProtocol] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIProtocol.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIProtocol.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIProtocol.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIProtocol.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.590Z - failed: load script [./assets/Script/src/interfaces/networks/JTIReceivePackage] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIReceivePackage.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIReceivePackage.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIReceivePackage.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIReceivePackage.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.590Z - failed: load script [./assets/Script/src/interfaces/networks/JTIWebsocketChannel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIWebsocketChannel.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIWebsocketChannel.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIWebsocketChannel.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\JTIWebsocketChannel.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.590Z - failed: load script [./assets/Script/src/interfaces/networks/decode/JTIEncoderAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\decode\JTIEncoderAdapter.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\decode\JTIEncoderAdapter.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\decode\JTIEncoderAdapter.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\decode\JTIEncoderAdapter.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.591Z - failed: load script [./assets/Script/src/interfaces/networks/encode/JTIDecoderAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\encode\JTIDecoderAdapter.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\encode\JTIDecoderAdapter.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\encode\JTIDecoderAdapter.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\networks\encode\JTIDecoderAdapter.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.591Z - failed: load script [./assets/Script/src/interfaces/pools/JTICachePool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTICachePool.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTICachePool.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTICachePool.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTICachePool.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.591Z - failed: load script [./assets/Script/src/interfaces/pools/JTIFixedPool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIFixedPool.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIFixedPool.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIFixedPool.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIFixedPool.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.592Z - failed: load script [./assets/Script/src/interfaces/pools/JTIPool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPool.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPool.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPool.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPool.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.592Z - failed: load script [./assets/Script/src/interfaces/pools/JTIPoolObject] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPoolObject.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPoolObject.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPoolObject.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\pools\JTIPoolObject.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.592Z - failed: load script [./assets/Script/src/interfaces/ui/JTIComponent] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIComponent.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIComponent.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIComponent.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIComponent.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.593Z - failed: load script [./assets/Script/src/interfaces/ui/JTIPanel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIPanel.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIPanel.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIPanel.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIPanel.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.593Z - failed: load script [./assets/Script/src/interfaces/ui/JTIScene] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIScene.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIScene.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIScene.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\interfaces\ui\JTIScene.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.593Z - failed: load script [./assets/Script/src/layout/JTLayout] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:34:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:41:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\decorators\injects\JTLayout.js:43:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.594Z - failed: load script [./assets/Script/src/layout/JTLayoutManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\layout\JTLayoutManager.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\layout\JTLayoutManager.js:149:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\layout\JTLayoutManager.js:156:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\layout\JTLayoutManager.js:158:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.595Z - failed: load script [./assets/Script/src/managers/JTAbstractLayerManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractLayerManager.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractLayerManager.js:116:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractLayerManager.js:123:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractLayerManager.js:125:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.595Z - failed: load script [./assets/Script/src/managers/JTAbstractSceneManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractSceneManager.js:65:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractSceneManager.js:156:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractSceneManager.js:163:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractSceneManager.js:165:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.596Z - failed: load script [./assets/Script/src/managers/JTAbstractTemplateManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractTemplateManager.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractTemplateManager.js:57:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractTemplateManager.js:64:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTAbstractTemplateManager.js:66:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.596Z - failed: load script [./assets/Script/src/managers/JTDataInfoManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTDataInfoManager.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTDataInfoManager.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTDataInfoManager.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\JTDataInfoManager.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.596Z - failed: load script [./assets/Script/src/managers/popups/JTChildPopUp] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTChildPopUp.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTChildPopUp.js:52:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTChildPopUp.js:59:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTChildPopUp.js:61:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.597Z - failed: load script [./assets/Script/src/managers/popups/JTPopupManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTPopupManager.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTPopupManager.js:176:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTPopupManager.js:183:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\managers\popups\JTPopupManager.js:185:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.597Z - failed: load script [./assets/Script/src/network/JTChannel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannel.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannel.js:99:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannel.js:106:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannel.js:108:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.598Z - failed: load script [./assets/Script/src/network/JTChannelPipeline] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannelPipeline.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannelPipeline.js:92:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannelPipeline.js:99:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTChannelPipeline.js:101:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.598Z - failed: load script [./assets/Script/src/network/JTHttpChannel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTHttpChannel.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTHttpChannel.js:51:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTHttpChannel.js:58:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTHttpChannel.js:60:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.599Z - failed: load script [./assets/Script/src/network/JTRceivePackage] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTRceivePackage.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTRceivePackage.js:100:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTRceivePackage.js:107:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTRceivePackage.js:109:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.599Z - failed: load script [./assets/Script/src/network/JTSendPackage] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTSendPackage.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTSendPackage.js:92:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTSendPackage.js:99:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTSendPackage.js:101:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.600Z - failed: load script [./assets/Script/src/network/JTWebSocketChannel] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTWebSocketChannel.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTWebSocketChannel.js:109:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTWebSocketChannel.js:116:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\JTWebSocketChannel.js:118:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.601Z - failed: load script [./assets/Script/src/network/base/JTBuffer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTBuffer.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTBuffer.js:467:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTBuffer.js:474:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTBuffer.js:476:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.601Z - failed: load script [./assets/Script/src/network/base/JTHttpRequest] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTHttpRequest.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTHttpRequest.js:178:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTHttpRequest.js:185:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTHttpRequest.js:187:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.602Z - failed: load script [./assets/Script/src/network/base/JTURLLoader] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTURLLoader.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTURLLoader.js:55:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTURLLoader.js:62:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTURLLoader.js:64:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.602Z - failed: load script [./assets/Script/src/network/base/JTWebSocket] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTWebSocket.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTWebSocket.js:209:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTWebSocket.js:216:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\base\JTWebSocket.js:218:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.603Z - failed: load script [./assets/Script/src/network/contexts/JTChannelContext] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContext.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContext.js:67:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContext.js:74:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContext.js:76:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.603Z - failed: load script [./assets/Script/src/network/contexts/JTChannelContextAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContextAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContextAdapter.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContextAdapter.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\JTChannelContextAdapter.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.604Z - failed: load script [./assets/Script/src/network/contexts/decode/JTAbstractDecoderAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTAbstractDecoderAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTAbstractDecoderAdapter.js:84:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTAbstractDecoderAdapter.js:91:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTAbstractDecoderAdapter.js:93:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.604Z - failed: load script [./assets/Script/src/network/contexts/decode/JTDecoderToByteAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToByteAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToByteAdapter.js:54:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToByteAdapter.js:61:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToByteAdapter.js:63:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.605Z - failed: load script [./assets/Script/src/network/contexts/decode/JTDecoderToJSONAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToJSONAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToJSONAdapter.js:55:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToJSONAdapter.js:62:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\decode\JTDecoderToJSONAdapter.js:64:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.605Z - failed: load script [./assets/Script/src/network/contexts/encode/JTAbstractEncoderAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTAbstractEncoderAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTAbstractEncoderAdapter.js:59:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTAbstractEncoderAdapter.js:66:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTAbstractEncoderAdapter.js:68:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.605Z - failed: load script [./assets/Script/src/network/contexts/encode/JTEncodeToByteAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToByteAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToByteAdapter.js:55:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToByteAdapter.js:62:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToByteAdapter.js:64:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.606Z - failed: load script [./assets/Script/src/network/contexts/encode/JTEncodeToJSONAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToJSONAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToJSONAdapter.js:57:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToJSONAdapter.js:64:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\encode\JTEncodeToJSONAdapter.js:66:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.606Z - failed: load script [./assets/Script/src/network/contexts/idleState/JTAbstractIdleStateAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTAbstractIdleStateAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTAbstractIdleStateAdapter.js:77:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTAbstractIdleStateAdapter.js:84:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTAbstractIdleStateAdapter.js:86:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.607Z - failed: load script [./assets/Script/src/network/contexts/idleState/JTIdleStateAdapter] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTIdleStateAdapter.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTIdleStateAdapter.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTIdleStateAdapter.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\contexts\idleState\JTIdleStateAdapter.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.607Z - failed: load script [./assets/Script/src/network/protocols/JTAbstractProtocolErrorMessage] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolErrorMessage.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolErrorMessage.js:54:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolErrorMessage.js:61:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolErrorMessage.js:63:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.607Z - failed: load script [./assets/Script/src/network/protocols/JTAbstractProtocolManager] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolManager.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolManager.js:62:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolManager.js:69:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTAbstractProtocolManager.js:71:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.608Z - failed: load script [./assets/Script/src/network/protocols/JTItemProtocol] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTItemProtocol.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTItemProtocol.js:71:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTItemProtocol.js:78:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTItemProtocol.js:80:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.608Z - failed: load script [./assets/Script/src/network/protocols/JTProtocol] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTProtocol.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTProtocol.js:65:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTProtocol.js:72:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\network\protocols\JTProtocol.js:74:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.609Z - failed: load script [./assets/Script/src/pools/JTCachePool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTCachePool.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTCachePool.js:76:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTCachePool.js:83:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTCachePool.js:85:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.610Z - failed: load script [./assets/Script/src/pools/JTFixedPool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTFixedPool.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTFixedPool.js:107:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTFixedPool.js:114:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTFixedPool.js:116:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.610Z - failed: load script [./assets/Script/src/pools/JTPool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTPool.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTPool.js:75:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTPool.js:82:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\pools\JTPool.js:84:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.611Z - failed: load script [./assets/Script/src/threads/JTIRunnable] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTIRunnable.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTIRunnable.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTIRunnable.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTIRunnable.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.611Z - failed: load script [./assets/Script/src/threads/JTThread] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTThread.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTThread.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTThread.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\threads\JTThread.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.612Z - failed: load script [./assets/Script/src/time/JTTimeUtils] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimeUtils.js:52:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimeUtils.js:94:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimeUtils.js:101:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimeUtils.js:103:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.612Z - failed: load script [./assets/Script/src/time/JTTimerEvent] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerEvent.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerEvent.js:38:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerEvent.js:45:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerEvent.js:47:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.613Z - failed: load script [./assets/Script/src/time/JTTimerTool] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerTool.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerTool.js:144:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerTool.js:151:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\JTTimerTool.js:153:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.613Z - failed: load script [./assets/Script/src/time/base/JTTimer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimer.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimer.js:98:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimer.js:105:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimer.js:107:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.614Z - failed: load script [./assets/Script/src/time/base/JTTimerTask] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimerTask.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimerTask.js:91:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimerTask.js:98:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\base\JTTimerTask.js:100:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.614Z - failed: load script [./assets/Script/src/time/frames/JTEnterFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTEnterFrame.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTEnterFrame.js:149:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTEnterFrame.js:156:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTEnterFrame.js:158:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.615Z - failed: load script [./assets/Script/src/time/frames/JTJumpFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTJumpFrame.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTJumpFrame.js:100:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTJumpFrame.js:107:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTJumpFrame.js:109:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.615Z - failed: load script [./assets/Script/src/time/frames/JTOptimizeFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTOptimizeFrame.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTOptimizeFrame.js:82:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTOptimizeFrame.js:89:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTOptimizeFrame.js:91:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.616Z - failed: load script [./assets/Script/src/time/frames/JTScheduleFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTScheduleFrame.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTScheduleFrame.js:91:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTScheduleFrame.js:98:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\frames\JTScheduleFrame.js:100:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.616Z - failed: load script [./assets/Script/src/time/interfaces/JTIEnterFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIEnterFrame.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIEnterFrame.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIEnterFrame.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIEnterFrame.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.616Z - failed: load script [./assets/Script/src/time/interfaces/JTIJumpFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIJumpFrame.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIJumpFrame.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIJumpFrame.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIJumpFrame.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.617Z - failed: load script [./assets/Script/src/time/interfaces/JTIScheduleFrame] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleFrame.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleFrame.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleFrame.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleFrame.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.617Z - failed: load script [./assets/Script/src/time/interfaces/JTIScheduleTimer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleTimer.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleTimer.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleTimer.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTIScheduleTimer.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.617Z - failed: load script [./assets/Script/src/time/interfaces/JTITimeTask] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimeTask.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimeTask.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimeTask.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimeTask.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.618Z - failed: load script [./assets/Script/src/time/interfaces/JTITimer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimer.js:16:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimer.js:23:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimer.js:30:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\interfaces\JTITimer.js:32:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.618Z - failed: load script [./assets/Script/src/time/timers/JTLoopTimer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTLoopTimer.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTLoopTimer.js:47:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTLoopTimer.js:54:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTLoopTimer.js:56:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.619Z - failed: load script [./assets/Script/src/time/timers/JTOptimizeTimer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTOptimizeTimer.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTOptimizeTimer.js:49:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTOptimizeTimer.js:56:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTOptimizeTimer.js:58:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.619Z - failed: load script [./assets/Script/src/time/timers/JTScheduleTimer] failed : ReferenceError: define is not defined
+    at __define (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTScheduleTimer.js:29:1)
+    at D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTScheduleTimer.js:83:25
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTScheduleTimer.js:90:19)
+    at Object.<anonymous> (D:\Cocos\rabbit-ioc\temp\quick-scripts\dst\assets\Script\src\time\timers\JTScheduleTimer.js:92:3)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.p (C:\CocosDashboard_1.0.20\resources\.editors\Creator\2.4.7\resources\app.asar\editor-framework\lib\share\require.js:1:2149)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2022-01-16T10:45:18.619Z - warn: Modified global variable while loading common project scripts: onmessage
+Before: null
+After: function onmessage(evt) {
+  var data = evt.data;
+
+  if (data && data.__THREAD_TASK__) {
+    var task = data.__THREAD_TASK__;
+
+    try {
+      var _run = function _run() {
+        ctx.threadSignal = true;
+        var ret = fn.call(ctx, data.sharedObj);
+        postMessage({
+          error: null,
+          returnValue: ret,
+          __THREAD_TASK__: task,
+          sharedObj: data.sharedObj,
+          taskId: data.taskId
+        });
+      };
+
+      var fn = new Function("return " + task)();
+      var ctx = {
+        threadSignal: true,
+        sleep: function sleep(interval) {
+          ctx.threadSignal = false;
+          setTimeout(_run, interval);
+        },
+        runOnUiThread: function runOnUiThread(task) {
+          postMessage({
+            __UI_TASK__: task.toString(),
+            sharedObj: data.sharedObj
+          });
+        }
+      };
+
+      _run(0);
+    } catch (ex) {
+      postMessage({
+        error: ex.toString(),
+        returnValue: null,
+        sharedObj: data.sharedObj
+      });
+    }
+  }
+}
+2022-01-16T10:45:18.632Z - warn: Script attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2022-01-16T10:45:29.088Z - info: shutdown preview server

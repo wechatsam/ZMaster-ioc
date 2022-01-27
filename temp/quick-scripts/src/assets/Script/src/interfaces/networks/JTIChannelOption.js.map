@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\networks\\JTIChannelOption.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["namespace com \r\n{\r\n    export interface JTIChannelOption\r\n    {\r\n        childOption(type:string, channelAdapter:JTIChannelContext):JTIChannelOption\r\n    }\r\n}"]}

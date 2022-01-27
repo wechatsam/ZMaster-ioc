@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\Script\\src\\interfaces\\ui\\JTIPanel.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\r\n\r\n/*\r\n* name;\r\n*/\r\nnamespace com \r\n{\r\n    export interface JTIPanel<T extends fgui.GComponent>\r\n    {\r\n        componentUI:T;\r\n    }\r\n}"]}
